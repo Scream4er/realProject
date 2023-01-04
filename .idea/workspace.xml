@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="396c65e3-94da-497d-87ac-b2924a039107" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/realProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realProject/.idea/realProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realProject/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realProject/icons/Group 5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realProject/icons/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realProject/icons/instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realProject/icons/left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realProject/icons/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realProject/icons/right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realProject/icons/switch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realProject/icons/veg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realProject/img/slider/food-12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realProject/img/slider/olive-oil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realProject/img/slider/paprika.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realProject/img/slider/pepper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realProject/img/tabs/elite.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realProject/img/tabs/hamburger.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realProject/img/tabs/post.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realProject/img/tabs/vegy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realProject/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Jrl8PZdbDhvyQB6bL1GMzF3r4z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="396c65e3-94da-497d-87ac-b2924a039107" name="Changes" comment="" />
+      <created>1672843922499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672843922499</updated>
+      <workItem from="1672843924144" duration="9814000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
