@@ -136,7 +136,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
     window.addEventListener('scroll', showModalByScroll);
 
-    // clases
+    // classes
 
     class MenuCard {
         constructor(src, alt, title, descr, price, parentSelector, ...classes) {
