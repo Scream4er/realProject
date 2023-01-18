@@ -16,9 +16,22 @@
     "url": "https://github.com/Scream4er/realProject/issues"
   },
   "homepage": "https://github.com/Scream4er/realProject#readme",
+  "browserslist": [
+    "> 1%"
+  ],
   "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "babel-loader": "^9.1.2",
+    "core-js": "^3.27.1",
     "json-server": "^0.17.1",
     "webpack": "^5.75.0",
     "webpack-cli": "^5.0.1"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "es6-promise": "^4.2.8",
+    "es6-promise-polyfill": "^1.2.0"
   }
 }
